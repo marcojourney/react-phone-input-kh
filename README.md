@@ -22,7 +22,7 @@ yarn add react-phone-input-kh
 ## Usage
 ```jsx
 import PhoneInput from 'react-phone-input-kh'
-import 'react-phone-input-2/lib/style.css'
+import 'react-phone-input-kh/lib/style.css'
 
 <PhoneInput
   country={'us'}
@@ -508,4 +508,4 @@ const placeholder = useMemo(() => {
 ## License
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bl00mber/react-phone-input-2/blob/master/LICENSE)
 
-Based on [react-phone-input](https://github.com/razagill/react-phone-input)
+Based on [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2)
