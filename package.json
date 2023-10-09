@@ -1,6 +1,6 @@
 {
-  "name": "@sophanna/react-phone-input-kh",
-  "version": "1.0.0",
+  "name": "react-country-phone-input",
+  "version": "1.0.1",
   "description": "A react component to format phone numbers",
   "main": "lib/lib.js",
   "typings": "index.d.ts",
