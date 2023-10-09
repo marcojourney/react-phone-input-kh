@@ -1,6 +1,6 @@
 {
-  "name": "react-phone-input-2",
-  "version": "2.15.1",
+  "name": "@sophanna/react-phone-input-kh",
+  "version": "1.0.0",
   "description": "A react component to format phone numbers",
   "main": "lib/lib.js",
   "typings": "index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bl00mber/react-phone-input-2.git"
+    "url": "git+https://github.com/phannamorn/react-phone-input-kh"
   },
   "keywords": [
     "react",
@@ -40,15 +40,16 @@
     "README.md",
     "index.d.ts"
   ],
-  "author": "Nick Reiley <bloomber111@gmail.com> (https://github.com/bl00mber)",
+  "author": "Sophanna M. <sophanna.mn@gmail.com> (https://github.com/phananmorn)",
   "contributors": [
-    "Raza Gill <raza.gill@outlook.com> (https://github.com/razagill)"
+    "Sophanna M. <sophanna.mn@gmail.com> (https://github.com/phannamorn)",
+    "Siveing <siveing.huyy@gmail.com> (https://github.com/siveing)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bl00mber/react-phone-input-2/issues"
+    "url": "https://github.com/phannamorn/react-phone-input-kh/issues"
   },
-  "homepage": "https://github.com/bl00mber/react-phone-input-2",
+  "homepage": "https://github.com/phannamorn/react-phone-input-kh",
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2)$": "<rootDir>/test/__mocks__/fileMock.js",

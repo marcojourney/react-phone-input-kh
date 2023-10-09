@@ -1,4 +1,4 @@
-# React-Phone-Input-2
+# React-Phone-Input-KH
 Highly customizable phone input component with auto formatting.
 
 [![npm version](https://img.shields.io/npm/v/react-phone-input-2.svg?style=flat)](https://www.npmjs.com/package/react-phone-input-2)
@@ -10,12 +10,18 @@ Highly customizable phone input component with auto formatting.
 
 ## Installation
 ```shell-script
-npm install react-phone-input-2 --save
+npm i react-phone-input-kh
+```
+```shell-script
+pnpm i react-phone-input-kh
+```
+```shell-script
+yarn add react-phone-input-kh
 ```
 
 ## Usage
 ```jsx
-import PhoneInput from 'react-phone-input-2'
+import PhoneInput from 'react-phone-input-kh'
 import 'react-phone-input-2/lib/style.css'
 
 <PhoneInput
@@ -494,11 +500,6 @@ const placeholder = useMemo(() => {
 ```
 </details>
 
-### CDN
-```html
-<script src="https://unpkg.com/react-phone-input-2@2.x/dist/lib.js"></script>
-```
-
 ## Contributing
 - Code style changes not allowed
 - Do not create issues about incorrect or missing country masks (of already present countries) or absent area codes (they will be closed). Only create issues if the subject is an actual mechanism that is not present in the component. Otherwise create a PR with a link that proves the correctness of your newly suggested mask or list of area codes
@@ -508,5 +509,3 @@ const placeholder = useMemo(() => {
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bl00mber/react-phone-input-2/blob/master/LICENSE)
 
 Based on [react-phone-input](https://github.com/razagill/react-phone-input)
-
-Make sure you donated for lib maintenance [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/bloomber/20)
